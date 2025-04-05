@@ -87,7 +87,19 @@ Step 40: 88.89%
 
 Step 60: 95.56%
 
+
 🧠 The model hit the accuracy target and training stopped early.
+
+
+![Screenshot 2025-03-20 at 9 58 43 PM](https://github.com/user-attachments/assets/6ec5d093-994f-4d26-8561-096ad42b7005)
+![Screenshot 2025-03-20 at 9 56 14 PM](https://github.com/user-attachments/assets/0f933d1c-0db0-4b45-8aa7-aac17fd690c6)
+![Screenshot 2025-03-20 at 9 45 11 PM](https://github.com/user-attachments/assets/3acaf8a3-425d-4b3a-93d5-70827e3caa3f)
+![Screenshot 2025-03-20 at 9 40 15 PM](https://github.com/user-attachments/assets/1272dc4a-713e-4ed9-8bce-e2115264818f)
+![Screenshot 2025-03-20 at 9 39 53 PM](https://github.com/user-attachments/assets/d431e154-35f5-4ed4-9fac-237705368afd)
+<img width="1098" alt="Screenshot 2025-03-03 at 2 36 17 PM" src="https://github.com/user-attachments/assets/f05ccb6a-ce03-480f-b84a-c6973635e36a" />
+<img width="850" alt="Screenshot 2025-03-03 at 2 35 22 PM" src="https://github.com/user-attachments/assets/de2891a5-f6e8-4784-9029-999e2a4d7c15" />
+
+
 
 🧪 Technologies Used
 - Python
